@@ -1,6 +1,6 @@
 // array to sort
 var items = [9, 2, 5, 6, 4, 3, 7, 10, 1, 8];
-
+//josh
 function bubbleSort(items) {
     //index length of 9 
     var arrayLength = items.length;
